@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielTor
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me instagram dario.gabriel.torres
 

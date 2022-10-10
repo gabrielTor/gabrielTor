@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DARIO GABRIEL TORRES</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+![githubBanner](https://user-images.githubusercontent.com/97799318/194921067-55d6cc39-87f6-47c1-ba12-a9920e5fa526.png)
+![banner2](https://user-images.githubusercontent.com/97799318/194921497-ed8e1866-249a-410c-abca-568f1ec6cc68.png)
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
 <h3 align="left">Connect with me:</h3>

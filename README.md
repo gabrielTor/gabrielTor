@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DARIO GABRIEL TORRES</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

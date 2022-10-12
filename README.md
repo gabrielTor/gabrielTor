@@ -2,6 +2,10 @@
 ![banner2](https://user-images.githubusercontent.com/97799318/194921497-ed8e1866-249a-410c-abca-568f1ec6cc68.png)
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
+As the pandemic struck in the year 2020, new opportunities amerged, I took advangate of this by deciding to work for a delivery app for the moment.
+Time passed and realized bigger opportunities were in the tech industry, so I investigated and thats when i discovered this great world of programming.
+Just finished my first react project and first group project at Henry Bootcamp, know I´m super pumped to start working as a full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dario-gabriel-torres-576a3561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dario-gabriel-torres-576a3561/" height="30" width="40" /></a>

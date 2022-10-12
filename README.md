@@ -1,7 +1,7 @@
 ![githubBanner](https://user-images.githubusercontent.com/97799318/194921067-55d6cc39-87f6-47c1-ba12-a9920e5fa526.png)
 ![banner2](https://user-images.githubusercontent.com/97799318/194921497-ed8e1866-249a-410c-abca-568f1ec6cc68.png)
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
-
+<h3>My story: </h3>
 As the pandemic struck in the year 2020, new opportunities amerged, I took advangate of this by deciding to work for a delivery app for the moment.
 Time passed and realized bigger opportunities were in the tech industry, so I investigated and thats when i discovered this great world of programming.
 Just finished my first react project and first group project at Henry Bootcamp, know I´m super pumped to start working as a full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications.

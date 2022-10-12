@@ -6,6 +6,8 @@ As the pandemic struck in the year 2020, new opportunities amerged, I took advan
 Time passed and realized bigger opportunities were in the tech industry, so I investigated and thats when i discovered this great world of programming.
 Just finished my first react project and first group project at Henry Bootcamp, know I´m super pumped to start working as a full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications.
 
+- 📫 How to reach me **dariogabrieltorres93@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dario-gabriel-torres-576a3561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dario-gabriel-torres-576a3561/" height="30" width="40" /></a>

@@ -1,18 +1,9 @@
 ![githubBanner](https://user-images.githubusercontent.com/97799318/194921067-55d6cc39-87f6-47c1-ba12-a9920e5fa526.png)
 ![banner2](https://user-images.githubusercontent.com/97799318/194921497-ed8e1866-249a-410c-abca-568f1ec6cc68.png)
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
-<h3>My story: </h3>
-Started out studying Technician in Information Technology because of my intereset for comupters, but there is a wide range of sectors in the tech field I couldn´t decide which to proceed.
-So I lost my path into other areas to try out like pharmacy, turism, carpintery, and even english professor.
-<br>
-<br>
-Then came the pandemic and web development became a very necesary skill for companies to be able to virtualize their goods and servicies.
-This grabbed my attention and got back on my path, so decided I wanted to be a web developer and help make the right information accessible to the right people.
-<br>
-<br>
-Just finished Henry Bootcamp, (intensive 4 months of coding 8hrs/day), know I´m super pumped to start working as a full stack developer with a passion for learning new technologies and working with teams to create user-friendly web applications.
-
-- 📫 How to reach me **dariogabrieltorres93@gmail.com**
+<h3>
+  Greetings, I'm Gabriel, an experienced and highly skilled full stack developer with over 2 years of experience developing with React and Typescript. Competent in unit testing and testing methodologies with Jest, using Scrum for agile methodologies, and Git & GitHub for version control. Extensive experience in strategic planning, problem solving, and team leadership. I am a React, TypeScript, and web developer with multiple certifications under my belt. Full Stack Developer certification and a degree in Computer Science. Fluent in English and Spanish, with experience in English teaching. Strongly committed to continuous learning and professional development.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

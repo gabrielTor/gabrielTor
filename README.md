@@ -2,7 +2,13 @@
 ![banner2](https://user-images.githubusercontent.com/97799318/194921497-ed8e1866-249a-410c-abca-568f1ec6cc68.png)
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 <h3>
-  Greetings, I'm Gabriel, an experienced and highly skilled full stack developer with over 2 years of experience developing with React and Typescript. Competent in unit testing and testing methodologies with Jest, using Scrum for agile methodologies, and Git & GitHub for version control. Extensive experience in strategic planning, problem solving, and team leadership. I am a React, TypeScript, and web developer with multiple certifications under my belt. Full Stack Developer certification and a degree in Computer Science. Fluent in English and Spanish, with experience in English teaching. Strongly committed to continuous learning and professional development.
+  Meet Gabriel, a highly skilled full stack developer with about 3 years of experience in software development, specializing in web development with React and TypeScript. With a passion for learning new technologies and frameworks, this developer is constantly on the lookout for ways to expand his skills and apply them to existing problems.
+<br/><br/>
+Unit testing and testing methodologies with Jest are among the many competencies held by this developer, who also utilizes Scrum for agile methodologies and Git & GitHub for version control. Extensive experience in strategic planning, problem solving, and team leadership ensures that he brings unmatched success to any organization they work with.
+<br/><br/>
+In addition to his technical skills, this developer has multiple certifications, including a Full Stack Developer certification and a degree in Computer Science. Fluent in English and Spanish and have experience in English teaching. Furthermore, his experience as a pharmacist assistant has helped him develop strong customer service skills, inventory management expertise, and experience in teaching interns at the pharmacy.
+<br/><br/>
+This highly motivated and dedicated developer is open to new experiences and challenges, aiming to build a long and successful career in software development. With practical work experience and commitment to continuous learning and professional development, he can bring a unique set of skills and experience to any team.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
